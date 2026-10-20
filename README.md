@@ -29,11 +29,23 @@
 
 <img src="webp/task.webp" width="100%" />
 
+后台下发一条视频评论任务的操作过程：
+
+<video src="video/demo.web.mp4" width="420" controls playsinline>
+  <a href="video/demo.web.mp4">播放视频评论演示</a>
+</video>
+
 ### 实时画面
 
 自建 LiveKit 服务，查看画面不需要第三方付费。
 
 <img src="webp/livekit.webp" width="100%" />
+
+手机端实时画面：
+
+<video src="video/living.web.mp4" width="420" controls playsinline>
+  <a href="video/living.web.mp4">播放实时画面</a>
+</video>
 
 ### 运行日志
 
