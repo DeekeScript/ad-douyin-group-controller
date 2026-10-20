@@ -35,6 +35,8 @@
   <a href="video/demo.web.mp4">播放视频评论演示</a>
 </video>
 
+[观看更清晰的原片](video/demo.mp4)
+
 ### 实时画面
 
 自建 LiveKit 服务，查看画面不需要第三方付费。
@@ -46,6 +48,8 @@
 <video src="video/living.web.mp4" width="420" controls playsinline>
   <a href="video/living.web.mp4">播放实时画面</a>
 </video>
+
+[观看更清晰的原片](video/living.mp4)
 
 ### 运行日志
 
