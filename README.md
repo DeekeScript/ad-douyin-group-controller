@@ -34,9 +34,7 @@
 
 后台下发一条视频评论任务的操作过程：
 
-<video src="video/demo.web.mp4" width="420" controls playsinline>
-  <a href="video/demo.web.mp4">播放视频评论演示</a>
-</video>
+<img src="video/demo.webp" width="520" alt="视频评论演示" />
 
 [观看更清晰的原片](video/demo.mp4)
 
@@ -48,9 +46,7 @@
 
 手机端实时画面：
 
-<video src="video/living.web.mp4" width="420" controls playsinline>
-  <a href="video/living.web.mp4">播放实时画面</a>
-</video>
+<img src="video/living.webp" width="520" alt="实时画面" />
 
 [观看更清晰的原片](video/living.mp4)
 
