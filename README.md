@@ -1,4 +1,7 @@
-# 群控系统介绍
+# 🚀 群控系统介绍
+
+<img src='https://home.deeke.top/Index/githubStatistic?name=github-ad-group-controller' width=0 height=0 />
+
 
 > 本系统仅用于研究学习，不得用于非法用途。
 
@@ -6,7 +9,7 @@
 
 **适用场景：** 同一批设备要在多个内容平台上批量执行点赞、关注、互动、评论、发布、投诉，同时设备本身也要能远程维护。
 
-[获取作者联系方式](#bottom)
+### [👇 获取作者联系方式 👇](#bottom)
 
 ## 目录
 
